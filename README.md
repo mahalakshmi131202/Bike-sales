@@ -76,7 +76,6 @@ The dashboard includes:
 - Overall purchase-rate reference lines
 - Key Insights section
 
-![Dashboard](dashboard.png)
 
 ## Key Insights
 
@@ -104,10 +103,6 @@ This project helped me move from learning Power BI features individually to unde
 
 ## Files
 
-- `Customer_Bike_Purchase_Analysis.pbix` — Power BI project file
-- `dashboard.png` — Final dashboard screenshot
-- `bike_buyers.csv` — Dataset used for the analysis
-
-## Author
-
-Maha Lakshmi Malli
+- `Customer_Bike_Purchase_Analysis.pbix` - Power BI project file
+- `Bike sales dashboard.png` - Final dashboard screenshot
+- `bike_buyers.csv` - Dataset used for the analysis
